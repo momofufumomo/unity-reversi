@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{82D921FB-8A6D-0CF1-425B-F535884BC0AF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/reverseManager.cs">
+    <Files>
+      <File FileName="Assets/script/boardManager.cs" Line="31" Column="9" />
+      <File FileName="Assets/script/reverseManager.cs" Line="76" Column="1" />
+      <File FileName="Assets/script/playerManager.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mofu-reverse" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="script" expanded="True">
+                <Node name="reverseManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="20f32af6-8832-4cc3-a573-513fb6840a02" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
