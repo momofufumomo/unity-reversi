@@ -11,7 +11,6 @@ public class playerManager : MonoBehaviour
     void Start()
     {
         var god = godObject.GetComponent<reverseManager>();
-        god.checkStoneObject();
     }
 
     // Update is called once per frame

@@ -72,9 +72,4 @@ public class reverseManager : MonoBehaviour
                 break;
         }
     }
-
-    public bool checkStoneObject()
-    {
-
-    }
 }
